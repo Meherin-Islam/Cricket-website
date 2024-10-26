@@ -1,0 +1,122 @@
+[
+    {
+      "player_id": 1,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/FVTTPH2/David-Warner.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm medium",
+      "price": 90000
+    },
+    {
+      "player_id": 2,
+      "name": "Moeen Ali",
+      "country": "England",
+      "image": "https://i.ibb.co.com/pr6KnLD/moenali.webp",
+      "role": "All-rounder",
+      "battingType": "Left-handed",
+      "bowlingType": "Right-arm fast-medium",
+      "price": 85000
+    },
+    {
+      "player_id": 3,
+      "name": "Sunil Narine",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/bJDPMK1/sunil.webp",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm off-spin",
+      "price": 78000
+    },
+    {
+      "player_id": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/9vbGMqD/Kane-Williamson.jpg",
+      "role": "Batsman",
+      "battingType": "Left-handed",
+      "bowlingType": "Right-arm leg-break",
+      "price": 80000
+    },
+    {
+      "player_id": 5,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/FHg3bg1/abdevilliers.webp",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm off-spin",
+      "price": 82000
+    },
+    {
+      "player_id": 6,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/Jvzwyks/mustafizur.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm leg-spin",
+      "price": 75000
+    },
+    {
+      "player_id": 7,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "image": "https://i.ibb.co.com/4N4F8Yn/rohit-sharma.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm fast",
+      "price": 78000
+    },
+    {
+      "player_id": 8,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/4TnMDfX/glenn-maxwel.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-handed",
+      "bowlingType": "Left-arm orthodox spin",
+      "price": 83000
+    },
+    {
+      "player_id": 9,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/ZM47Ln8/pat-cummins-07-03-2022.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Left-arm fast-medium",
+      "price": 72000
+    },
+    {
+      "player_id": 10,
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.ibb.co.com/D18KzH8/joe-root.webp",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm leg-spin",
+      "price": 87000
+    },
+    {
+      "player_id": 11,
+      "name": "Rashid Khan",
+      "country":  "Afghanistan",
+      "image": "https://i.ibb.co.com/0X75LSS/rashid.webp",
+      "role": "Wicketkeeper",
+      "battingType": "Right-handed",
+      "bowlingType": "None",
+      "price": 79000
+    },
+    {
+      "player_id": 12,
+      "name":  "Mujeeb Ur Rahman",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/S6tQG6n/mujeeb-ur-rahman-cwc19.webp",
+      "role": "Wicketkeeper",
+      "battingType": "Left-handed",
+      "bowlingType": "None",
+      "price": 78000
+    }
+  ]

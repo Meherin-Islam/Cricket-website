@@ -21,11 +21,20 @@ const Footer = () => {
 </div>
 
 <footer className="bg-gray-900 text-gray-300 py-10">
-  <div className="max-w-screen-xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
+  
+<div className="w-1/6 mx-auto mb-8">
+<img src="assets/logo-footer.png" alt="Cricket Logo" className=" md:mx-0 h-20  mx-auto " />
+</div>
+
+
+  
+  <div className="max-w-screen-xl mx-auto px-5 grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
    
+
+
     <div>
-      <img src="assets/logo-footer.png" alt="Cricket Logo" className="mx-auto md:mx-0 h-20 mb-4" />
-      <p className="text-sm">We are a passionate team dedicated to providing the best services to our customers.</p>
+    <h3 className="font-semibold text-lg mb-4">About Us</h3>
+      <p className="text-sm w-3/5">We are a passionate team dedicated to providing the best services to our customers.</p>
     </div>
                         
   
@@ -42,11 +51,11 @@ const Footer = () => {
    
     <div>
       <h3 className="font-semibold text-lg mb-4">Subscribe</h3>
-      <p className="text-sm mb-4">Subscribe to our newsletter for the latest updates.</p>
+      <p className="text-sm mb-4 w-3/5">Subscribe to our newsletter for the latest updates.</p>
       <div className="form-control">
-        <div className="input-group">
-          <input type="email" placeholder="Enter your email" className="input input-bordered w-full" />
-          <button className="btn btn-primary bg-gradient-to-r from-pink-500 to-yellow-500 text-white">
+        <div className="input-group flex">
+          <input type="email" placeholder="Enter your email" className="input input-bordered w-2/3" />
+          <button className="btn btn-primary bg-gradient-to-r from-pink-500 to-yellow-500 text-white border-none w-1/3">
             Subscribe
           </button>
         </div>
@@ -65,4 +74,4 @@ const Footer = () => {
     );
 };
 
-export default Footer;
+export default Footer;  
