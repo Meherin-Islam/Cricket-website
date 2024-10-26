@@ -28,7 +28,9 @@ const Header = () => {
             <button className=" bg-[#E7FE29] w-40 mx-auto rounded-xl h-10 text-black font-bold">Claim Free Credit</button>
             </div>
         </div>
-
+        <div className="h-60 bg-white ">
+            <h2>footer</h2>
+        </div>
         </div>
 
 
